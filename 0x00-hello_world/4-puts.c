@@ -1,13 +1,11 @@
 #include <stdio.h>
-
 /**
- * main - this is the main function
+ *main - entry point for the program
  *
- * Return: always o
-*/
-
+ *Return: Displays a message to the terminal
+ */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
-	return (o);
+	return (0);
 }
